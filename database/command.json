@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "nama": "#menu",
+    "count": 4
+  },
+  {
+    "nama": "#donate",
+    "count": 1
+  },
+  {
+    "nama": "#infobot",
+    "count": 1
+  },
+  {
+    "nama": "#sticker",
+    "count": 3
+  }
+]
